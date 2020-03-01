@@ -1,26 +1,26 @@
-Number	First line	Chapter	Lines by Stanza	Notes
-1	Chip the glasses and crack the plates!	1	4+4+4+2	dwarves
-2	Far over the misty mountains cold	1	4+4+4+4+4+4+4+4+4+4	dwarves
-2b	Far over the misty mountains cold	1	4	reprise
-3	O! What are you doing,	3	6+7+8+10	elves
-4	Clap! Snap! The black crack!	4	4+4+6	goblins
-5	What has roots as nobody sees,	5	4	Gollum riddle
-6	Thirty white horses on a red hill,	5	4	Bilbo riddle
-7	Voiceless it cries,	5	4	Gollum riddle
-8	An eye in a blue face	5	6	Bilbo riddle
-9	It cannot be seen, cannot be felt,	5	6	Gollum riddle
-10	A box without hinges, key, or lid,	5	2	Bilbo riddle
-11	Alive without breath,	5	4	Gollum riddle
-12	This thing all things devours:	5	6	Gollum riddle
-13	Fifteen birds in five fir-trees,	6	6	goblins
-13b	Burn, burn tree and fern!	6	15	continuation of goblin song
-14	The wind was on the withered heath,	7	4+4+4+4+4+4	dwarves (extract)
-15	Old fat spider spinning in a tree!	8	5+5	Bilbo
-16	Lazy Lob and crazy Cob	8	4+4	Bilbo (clearly identified as a new song)
-17	Roll-roll-roll-roll,	9	4	elves
-18	Down the swift dark stream you go	9	26	elves (seemingly a new song)
-19	The King beneath the mountains,	10	4+4+4+4	Lake Town men
-20	Under the mountain dark and tall	15	4+4+4+4+4+4+4	dwarves
-21	The dragon is withered,	19	14+10+13	Rivendell elves
-22	Sing all ye joyful, now sing all together!	19	4+4+8	Rivendell elves
-23	Roads go ever, ever on	19	8+8	Bilbo
+Number	First line	Reference (tentative)	Lines by Stanza	Notes
+1	Chip the glasses and crack the plates!	01.064-01.067	4+4+4+2	dwarves
+2	Far over the misty mountains cold	01.073-01.082	4+4+4+4+4+4+4+4+4+4	dwarves
+2b	Far over the misty mountains cold	01.144	4	reprise
+3	O! What are you doing,	03.014-03.017	6+7+8+10	elves
+4	Clap! Snap! The black crack!	04.019-04.021	4+4+6	goblins
+5	What has roots as nobody sees,	05.026	4	Gollum riddle
+6	Thirty white horses on a red hill,	05.030	4	Bilbo riddle
+7	Voiceless it cries,	05.033	4	Gollum riddle
+8	An eye in a blue face	05.035	6	Bilbo riddle
+9	It cannot be seen, cannot be felt,	05.038	6	Gollum riddle
+10	A box without hinges, key, or lid,	05.040	2	Bilbo riddle
+11	Alive without breath,	05.046	4	Gollum riddle
+12	This thing all things devours:	05.055	6	Gollum riddle
+13	Fifteen birds in five fir-trees,	06.074	6	goblins
+13b	Burn, burn tree and fern!	06.077	15	continuation of goblin song
+14	The wind was on the withered heath,	07.098-07.103	4+4+4+4+4+4	dwarves (extract)
+15	Old fat spider spinning in a tree!	08.096-08.097	5+5	Bilbo
+16	Lazy Lob and crazy Cob	08.100-08.101	4+4	Bilbo (clearly identified as a new song)
+17	Roll-roll-roll-roll,	09.049	4	elves
+18	Down the swift dark stream you go	09.053	26	elves (seemingly a new song)
+19	The King beneath the mountains,	10.035-10.038	4+4+4+4	Lake Town men
+20	Under the mountain dark and tall	15.036-15.042	4+4+4+4+4+4+4	dwarves
+21	The dragon is withered,	19.002-19.004	14+10+13	Rivendell elves
+22	Sing all ye joyful, now sing all together!	19.011-19.013	4+4+8	Rivendell elves
+23	Roads go ever, ever on	19.028-19.029	8+8	Bilbo
